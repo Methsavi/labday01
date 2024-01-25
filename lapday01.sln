@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lapday01", "lapday01\lapday
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1q2", "lab1q2\lab1q2.csproj", "{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab01q3", "lab01q3\lab01q3.csproj", "{86894459-E95E-4B4E-88D0-22D1ACF58318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86894459-E95E-4B4E-88D0-22D1ACF58318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86894459-E95E-4B4E-88D0-22D1ACF58318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86894459-E95E-4B4E-88D0-22D1ACF58318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86894459-E95E-4B4E-88D0-22D1ACF58318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
