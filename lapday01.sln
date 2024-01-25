@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lapday01", "lapday01\lapday01.csproj", "{BAD957CE-CDF9-4ACF-B5AA-5AC4A836B8EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1q2", "lab1q2\lab1q2.csproj", "{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BAD957CE-CDF9-4ACF-B5AA-5AC4A836B8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD957CE-CDF9-4ACF-B5AA-5AC4A836B8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD957CE-CDF9-4ACF-B5AA-5AC4A836B8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA8ECB2-3987-4352-ADB5-20C2BD42BD22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
